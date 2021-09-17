@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<installer version="1.0">
+  <info>
+	<uid>gateway-paymenterio@cubecart.com</uid>
+	<type>gateway</type>
+	<mobile_optimized>false</mobile_optimized>
+	<name><![CDATA[Paymenterio]]></name>
+	<description><![CDATA[Paymenterio Payment Gateway]]></description>
+	<version>1.0.1</version>
+	<minVersion>5.0.0a</minVersion>
+	<maxVersion>6.*.*</maxVersion>
+	<creator><![CDATA[CubeCart]]></creator>
+	<homepage><![CDATA[http://www.cubecart.com]]></homepage>
+	<block>false</block>
+  </info>
+</installer>

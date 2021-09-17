@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions version="1.0">
+ <group name="paymenterio">
+  <string name="module_title"><![CDATA[Paymenterio]]></string>
+  <string name="description"><![CDATA[Nazwa Platnosci]]></string>
+  <string name="settings"><![CDATA[Ustawienia Paymenterio]]></string>
+  <string name="call_url"><![CDATA[Callback URL]]></string>
+
+  <string name="shop_id"><![CDATA[Identyfikator lub Hash sklepu]]></string>
+  <string name="api_key"><![CDATA[Klucz API]]></string>
+ </group>
+</definitions>
